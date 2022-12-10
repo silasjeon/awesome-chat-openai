@@ -5,7 +5,6 @@ Exploring the capabilities and prompts of OpenAI chatbot is a new area of discov
 I chose to leave the typos or grammatical errors in the Inputs as is, rather than correcting them.
 
 ## Usages
-- [Translate and explain sentence sturcture](https://twitter.com/onehandmove/status/1598194372058959875?s=20&t=UPbrBjsrpW-GCUuVb_xtJA)
 - [Draw Dog and Cat using text](https://twitter.com/b_i_t_c_o_in/status/1601300083588624384?s=20&t=UPbrBjsrpW-GCUuVb_xtJA)
 - [Create a new language](Usages/new-language.md)
 - [Explain hoisting in Javscript](Usages/hoisting.md)
@@ -14,5 +13,6 @@ I chose to leave the typos or grammatical errors in the Inputs as is, rather tha
 - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 
 ## Limitations
+- [Translate and explain sentence sturcture (but wrong)](https://twitter.com/onehandmove/status/1598194372058959875?s=20&t=UPbrBjsrpW-GCUuVb_xtJA)
 - [Spatial reasoning(find a shortest path)](https://twitter.com/TomerUllman/status/1599767597653729280)
 - [Spatial relationship](https://twitter.com/paulharter/status/1598304656236875781)
