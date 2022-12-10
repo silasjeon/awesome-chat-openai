@@ -1,3 +1,5 @@
+* There is a typo or grammatical error in the Input, but I didn't fix it to leave it as it was.
+
 ## Input:
 
 Create a new language like English. Use a method like Korean that changing verbe tense adding something in the end.
