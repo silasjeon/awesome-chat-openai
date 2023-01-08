@@ -16,4 +16,4 @@ I chose to leave the typos or grammatical errors in the Inputs as is, rather tha
 - [Translate and explain sentence sturcture (but wrong)](https://twitter.com/onehandmove/status/1598194372058959875?s=20&t=UPbrBjsrpW-GCUuVb_xtJA)
 - [Spatial reasoning(find a shortest path)](https://twitter.com/TomerUllman/status/1599767597653729280)
 - [Spatial relationship](https://twitter.com/paulharter/status/1598304656236875781)
-- [Unable to Correct False Assertion: 47 is Larger than 64](https://twitter.com/djstrouse/status/1605963129220841473)
+- [Struggles to recognize and correct its own mistake: 47 is Larger than 64](https://twitter.com/djstrouse/status/1605963129220841473)
